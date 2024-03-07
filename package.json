@@ -1,0 +1,25 @@
+{
+  "name": "tea-demonstr-pr-ostr",
+  "version": "1.0.0",
+  "description": "Basic Demonstration Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ahara13/tea-demonstr-pr-ostr.git"
+  },
+  "dependencies": {
+    "tea-demonstr-pr-ostr": "1.0.0",
+    "tea-demonst-project-ggg": "1.0.0",
+    "project_tea_ol": "1.0.0",
+    "project_tea_demonstration_omg": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahara13/tea-demonstr-pr-ostr/issues"
+  },
+  "homepage": "https://github.com/Ahara13/tea-demonstr-pr-ostr#readme"
+}
